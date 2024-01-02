@@ -16,10 +16,10 @@
     <img src="images/avatar.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Template Repo</h3>
+<h3 align="center">SimulatePro</h3>
 
   <p align="center">
-    Jumpstart your development with this versatile template. 🚀📁
+    Elevate healthcare simulation management for enhanced training experiences 🏥📚
     <br />
     <a href="https://github.com/smcnab1/SimulatePro"><strong>Explore the docs »</strong></a>
     <br />
@@ -56,31 +56,23 @@ _Last Updated 02 Jan 24_
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/smcnab1/SimulatePro">
     <img src="images/screenshot.png" alt="Logo" width="100%" height="auto">
   </a>
   </div>
-  
+  -->
 This repository can be used as a template to load your new repository with ease. Including the following features to save your time in generating new repositories.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Features
 
-- Auto-Update Documentation Links with current repo name
-- Update Email Addresses: CODE_OF_CONDUCT, SECURITY.
-- Download files & folders from another GitHub Repo
-- Generate Markdown styled index file with SEO details
-- Generate Table of Contents into README
-- Several files already created for you as a template
+- ...
 
 ### Built with
 
-- Markdown
-- Python
-- GitHub Actions
-- Shell
+- ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,36 +84,11 @@ Accessible using browser or GitHub mobile application.
 
 ### Install
 
-1. Click on [use template](https://github.com/new?template_name=project-template-repo&template_owner=smcnab1) to generate new repository from template.
-
-2. Enter repository name and Description.
-
-3. Generate new repository.
-
-4. Navigate to **Settings > Actions > General** and set ***Workflow Permissions*** to _Read and write permissions_
+1. ...
 
 ### Usage
 
-- Repository Link Updater
-    - WIP
-
-- License Date Updater
-    - WIP
-
-- Code of Conduct Email Updater
-    - WIP
-
-- Security Policy Email Updater
-    - WIP
-
-- Table of Contents Generator
-    - WIP
-
-- Index File Generator
-    - WIP
-
-- Combinations
-    - WIP
+- ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,9 +97,7 @@ Accessible using browser or GitHub mobile application.
 <!-- ROADMAP -->
 ### Roadmap
 
-- [ ] Finalise Documentation.
-- [ ] Remove need for config file, all set within Actions.
-- [ ] Combination Selection instead of individual options.
+- [ ] ...
 
 See the [open issues](https://github.com/smcnab1/SimulatePro/issues) for a full list of proposed features (and known issues).
 
