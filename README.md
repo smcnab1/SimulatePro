@@ -62,7 +62,9 @@ _Last Updated 02 Jan 24_
   </a>
   </div>
   -->
-This repository can be used as a template to load your new repository with ease. Including the following features to save your time in generating new repositories.
+> [!NOTE]  
+> SimulatePro is being developed as part of [@smcnab1](https://github.com/smcnab1) CS50X Final Project
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
