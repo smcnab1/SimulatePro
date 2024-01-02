@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/smcnab1/project-template-repo">
+  <a href="https://github.com/smcnab1/SimulatePro">
     <img src="images/avatar.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,21 +21,21 @@
   <p align="center">
     Jumpstart your development with this versatile template. 🚀📁
     <br />
-    <a href="https://github.com/smcnab1/project-template-repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/smcnab1/SimulatePro"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/smcnab1/project-template-repo">View Demo</a>
+    <a href="https://github.com/smcnab1/SimulatePro">View Demo</a>
     ·
-    <a href="https://github.com/smcnab1/project-template-repo/issues">Report Bug</a>
+    <a href="https://github.com/smcnab1/SimulatePro/issues">Report Bug</a>
     ·
-    <a href="https://github.com/smcnab1/project-template-repo/issues">Request Feature</a>
+    <a href="https://github.com/smcnab1/SimulatePro/issues">Request Feature</a>
   </p>
 </div>
 
 <details>
   <summary>View Contents</summary>
 
-_Last Updated DATE_
+_Last Updated 02 Jan 24_
 <!-- toc -->
 
 - [About The Project](#about-the-project)
@@ -57,7 +57,7 @@ _Last Updated DATE_
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <a href="https://github.com/smcnab1/project-template-repo">
+  <a href="https://github.com/smcnab1/SimulatePro">
     <img src="images/screenshot.png" alt="Logo" width="100%" height="auto">
   </a>
   </div>
@@ -134,7 +134,7 @@ Accessible using browser or GitHub mobile application.
 - [ ] Remove need for config file, all set within Actions.
 - [ ] Combination Selection instead of individual options.
 
-See the [open issues](https://github.com/smcnab1/project-template-repo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/smcnab1/SimulatePro/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,16 +163,16 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/project-template-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/smcnab1/project-template-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/smcnab1/project-template-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/smcnab1/project-template-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/smcnab1/project-template-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/smcnab1/project-template-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/smcnab1/project-template-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/smcnab1/project-template-repo/issues
-[license-shield]: https://img.shields.io/github/license/smcnab1/project-template-repo.svg?style=for-the-badge
-[license-url]: https://github.com/smcnab1/project-template-repo/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/SimulatePro.svg?style=for-the-badge
+[contributors-url]: https://github.com/smcnab1/SimulatePro/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/smcnab1/SimulatePro.svg?style=for-the-badge
+[forks-url]: https://github.com/smcnab1/SimulatePro/network/members
+[stars-shield]: https://img.shields.io/github/stars/smcnab1/SimulatePro.svg?style=for-the-badge
+[stars-url]: https://github.com/smcnab1/SimulatePro/stargazers
+[issues-shield]: https://img.shields.io/github/issues/smcnab1/SimulatePro.svg?style=for-the-badge
+[issues-url]: https://github.com/smcnab1/SimulatePro/issues
+[license-shield]: https://img.shields.io/github/license/smcnab1/SimulatePro.svg?style=for-the-badge
+[license-url]: https://github.com/smcnab1/SimulatePro/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sammcnab/
 [product-screenshot]: images/screenshot.png
