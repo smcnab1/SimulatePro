@@ -5,9 +5,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Kofi][kofi-badge]][kofi-url]
 
 <a name="readme-top"></a>
+
+> [!NOTE] 
+> Paused – planned for future continuation. Last worked on 02 Jan 24.
 
 <!-- PROJECT LOGO -->
 <br />
@@ -62,8 +64,6 @@ _Last Updated 02 Jan 24_
   </a>
   </div>
   -->
-> [!NOTE]  
-> SimulatePro is being developed as part of [@smcnab1](https://github.com/smcnab1) CS50X Final Project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
